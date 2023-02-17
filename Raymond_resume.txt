@@ -1,0 +1,46 @@
+Raymond Huang
+yunruih2@illinois.edu| (217) 979-8703 |Champaign,IL
+EDUCATION
+University of Illinois at Urbana-Champaign ExpectedGraduation: May 2024
+Bachelor of Science in Mechanical Engineering. GPA: 4.00/4.00
+● Relevant Coursework: Mechanical Design, Design forManufacturability, Engineering Materials, Finite Element Analysis,
+Signal Processing & Control Systems, Heat Transfer, Soft System Dynamics & Computational Design.
+EXPERIENCE
+Metha Research Group| Student Researcher June 2022– Present
+● Utilized Python to simulate a snake and an octopus arm using Cosserat Rod Theory and optimized gaits with controlled B-Spline.
+Gazzola Lab| Student Researcher June 2022 – Present
+● Designed PCB for a 256-channel recording system, doubling data resolution and reducing 95% of project cost on PCB.
+● Developed a robotic stage-arm system for automated MEA testing and maintenance, saving 50+ man-hours weekly.
+● Invented a multi-purpose tool for robotic arm testing to facilitate nutrition supply, probing signals, and gripping.
+Ziguang Unigroup Cloud| Project Manager Intern May2021 - July 2021
+● Inspected assembly lines and arranged project overviews as a company representative.
+● Drafted technical bidding document on project implementation, timeline, scheduling, and service cost.
+● Processed real-time manufacturing monitoring system projects that constitute 3% ($500k/$15M) of company year income.
+Foshan Institution of Intelligent Equipment Researching| Robot Engineer December 2020 – January 2021
+● Contributed to developing one of the first robots with full Independent Intellectual Property rights in China.
+● Validated loading scenarios on a six-axis robotic arm with SolidWorks FEA simulation..
+● Simulated non-closed form forward/inverse kinematic solution and optimized trajectory and movements using MATLAB.
+PROJECTS
+SCARA Robotic Arm Revamp| SolidWorks, Arduino, DFA
+● Revamped a SCARA robotic arm to innovate solutions for wet-lab neuron MEA cultivation, maintenance, and assembly.
+● Prototyped a multi-purpose gripper with a nutrition syringe, gripper, and probe for high-humidity operational environments.
+Forced Convection in Fins| Fusion 360, DOE
+● Investigated the relationships between fin efficiency, shape, material, and Reynolds number with DOE.
+● Performed FEA for heat transfer across the fins and flow simulation around the fin with Fusion 360.
+Cyclic Gearbox| Abaqus, Welding, Waterjet, DFM
+● Assembled a mechanically controlled system that converts single directional input to cyclic alternating output.
+● Developed a rotary damping couple to reduce 90% of impact force resulting from gear backlashing.
+Integrated Toaster| Fusion 360, 3D Printing
+● Idealized an integrated bread toaster that transfers dissipated heat to a miniature oven for simultaneous usage.
+● Prepared detailed 3D models and engineering drawings with the manufacturing process and tolerance specifications.
+Rube Goldberg Machine| DFM, DOE, GD&T
+● Manufactured a 15-step chain reaction mechanical system with GD&T analysis, to compensate for 3D printing deviations.
+● Conducted DOE on the projectile mechanism, reducing 20% of vibration.
+Rope Climbing Robot |DFA, DFM, Dynamic Force Analysis Mar 2022 – May 2022
+● Designed arm mechanisms and gripping mechanisms,increasing 30% of gripping and 300% class average speed as result.
+● Designed gear mechanism for ease of lasercut, voted as 2ndbest design in UIUC MechanicalDepartment 2022.
+SKILLS
+Design & Manufacturing: SolidWorks, Fusion 360, Creo,Rhino, Siemens NX, 3D Printing, Laser Cutting, Waterjet, Soldering, Welding.
+Mechanics Analysis:Abaqus,DOE, GD&T, DFA, AxialLoading Test, Cosserat Rod Theory.
+Programming & Control:C, C++, Java, Python, MATLAB,KiCad, LT Spice, Arduino, STM32, ROS.
+
